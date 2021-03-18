@@ -1,6 +1,5 @@
 # KafkaMirror
 
-| kafkamirror.com |
 
 Kafka monitoring tool
 
